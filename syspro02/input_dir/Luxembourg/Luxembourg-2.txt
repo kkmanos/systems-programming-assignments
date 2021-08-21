@@ -1,0 +1,3 @@
+3297 LFRJYIO SWH Luxembourg 64 Cholera NO
+1725 IUORCBGTW IOPQOL Luxembourg 78 Influenza NO
+3908 TCKWN QDKVEFGIVTS Luxembourg 55 Rabies YES 21-09-1971

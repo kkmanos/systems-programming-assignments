@@ -1,0 +1,3 @@
+3267 RFJN OQJA Argentina 92 Polio YES 19-01-1999
+2984 CWFUC RDY Argentina 69 Smallpox YES 26-12-1990
+6862 BDI TXTUD Argentina 74 Cholera YES 08-05-2002

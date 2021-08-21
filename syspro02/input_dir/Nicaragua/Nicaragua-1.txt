@@ -1,0 +1,2 @@
+6966 NER QNLUX Nicaragua 36 Influenza YES 21-04-2010
+9826 XJMMCIPVSHXU OLQDWEDU Nicaragua 28 Pneumococcal NO
